@@ -4,7 +4,7 @@
  
 Any questions should be made to the corresponding author Dr Tania Dottorini (Tania.Dottorini@nottingham.ac.uk)
 
-Thirteen scripts are available:
+Ten scripts are available:
 
 1. Population Correction: get_weights.py and weighted_chi_square_AMR.py
 2. Machine Learning: AMR_Pipeline.py
