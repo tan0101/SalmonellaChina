@@ -1,0 +1,41 @@
+﻿ID,Antibiotic Name,Antibiotic Class,Last resort
+AMC,Amoxicillin-Clavulanate,B-lactam Combined Agents,No
+SAM,Ampicillin-Sulbactam,B-lactam Combined Agents,No
+TZP,Piperacillin-Tazobactam,B-lactam Combined Agents,Yes
+CFZ,Cefazolin ,Cephem,No
+FEP,Cefepime ,Cephem,Yes
+SCP,Cefoperazone-Sulbactam,Cephem,Yes
+FOX,Cefoxitin ,Cephem,No
+CAZ,Ceftazidime,Cephem,Yes
+CRO,Ceftriaxone,Cephem,Yes
+CXM,Cefuroxime,Cephem,No
+ETP,Ertapenem ,Carbapenem,Yes
+IPM,Imipenem ,Carbapenem,Yes
+MEM,Meropenem ,Carbapenem,Yes
+CHL,Chloramphenicol,Phenicol,No
+COL,Colistin ,Lipopeptide,Yes
+FOS,Fosfomycin w/G6P ,Fosfomycin,Yes
+AMK,Amikacin ,Aminoglycoside,No
+GEN,Gentamicin,Aminoglycoside,No
+TOB,Tobramycin,Aminoglycoside,No
+CIP,Ciprofloxacin,Fluoroquinolone,Yes
+LVX,Levofloxacin,Fluoroquinolone,Yes
+MXF,Moxifloxacin,Fluoroquinolone,Yes
+NOR,Norfloxacin,Fluoroquinolone,Yes
+NIT,Nitrofurantoin,Nitrofurantoins,No
+MIN,Minocycline,Tetracycline,No
+TET,Tetracycline,Tetracycline,No
+TGC,Tigecycline,Tetracycline,Yes
+SXT,Trimethoprim-Sulfamethoxazole ,Folate,No
+CTX,Cefotaxime,Cephem,Yes
+CZA,Ceftazidime-Avibactam,Cephem,Yes
+NAL,Nalidixic Acid,Fluoroquinolone,Yes
+AZM,Aztreonam,B-lactam Combined Agents,Yes
+STR,Streptomycin,Aminoglycoside,No
+AMP,Ampicillin,Penicilin,No
+AZI,Azithromycin,Macrolide,No
+FIS,Sulfisoxazole,Sulfonamide,No
+XNL,Ceftiofur,Cephem,Yes
+SUL,Sulfisoxazole,Sulfonamide,No
+DOX,Doxycycline,Tetracycline,No
+KAN,Kanamycin,Aminoglycoside,No
