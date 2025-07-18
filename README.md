@@ -1,6 +1,6 @@
 # SalmonellaChina
 
-"Machine Learning Insights into Genomic Traits and Risk Factors Driving AMR in Salmonella Across the Food Chain: Global Health Implications by 2050" by Michelle Baker, Chengchang Luo, Xin Lu, Alexandre Maciel-Guerra, Komkiew Pinpimai, Ming Luo, Mengyu Wang, Yuan Zhang, Baoli Zhu, Biao Kan, Tania Dottorini
+"Machine Learning Insights into Genomic Traits and Risk Factors Driving AMR in Salmonella Across the Food Chain in China: Global Health Implications by 2050" by Michelle Baker, Chengchang Luo, Xin Lu, Alexandre Maciel-Guerra, Komkiew Pinpimai, Ming Luo, Mengyu Wang, Yuan Zhang, Baoli Zhu, Weihua Meng, Biao Kan, Tania Dottorini
  
 Any questions should be made to the corresponding author Dr Tania Dottorini (Tania.Dottorini@nottingham.ac.uk)
 
