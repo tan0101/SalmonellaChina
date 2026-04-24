@@ -1,0 +1,307 @@
+SampleID,Dataset,year,occupation,Source v2,Source Type,Symptom,gender,age,Serovar,ST type,Serogroup,Location Province,ppcluster
+2013-213,CDC,2013,Workers in Food industry ,Food Workers,Food Workers,Asymptomatic,male,23,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2013-214,CDC,2013,Workers in Non-food industry ,Non-food Workers,Non-food Workers,Asymptomatic,female,26,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2013-234,CDC,2013,Workers in Non-food industry ,Non-food Workers,Non-food Workers,Asymptomatic,female,26,Typhimurium,36,B,Guangxi,5
+2013-242,CDC,2013,Workers in Food industry ,Food Workers,Food Workers,Asymptomatic,female,17,Typhimurium,19,B,Guangxi,1
+2013-72,CDC,2013,Workers in Food industry ,Food Workers,Food Workers,Asymptomatic,female,47,Typhimurium,34,B,Guangxi,1
+2014-0408,CDC_Public,2014,,Food Workers,Food Workers,Asymptomatic,Female,44,Kentucky,,,Guangxi,4
+2014-0438,CDC_Public,2014,,Food Workers,Food Workers,Asymptomatic,Male,58,Kentucky,,,Guangxi,4
+2014-100,CDC,2014,Workers in Food industry ,Food Workers,Food Workers,Asymptomatic,male,33,Typhimurium,19,B,Guangxi,1
+2014-104,CDC,2014,Workers in Food industry ,Food Workers,Food Workers,Asymptomatic,female,49,Typhimurium,19,B,Guangxi,1
+2014-105,CDC,2014,Workers in Food industry ,Food Workers,Food Workers,Asymptomatic,female,25,Typhimurium,19,B,Guangxi,1
+2014-109,CDC,2014,Workers in Food industry ,Food Workers,Food Workers,Asymptomatic,male,32,Typhimurium,36,B,Guangxi,5
+2014-144,CDC,2014,Workers in Food industry ,Food Workers,Food Workers,Asymptomatic,male,26,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2014-149,CDC,2014,Workers in Non-food industry ,Non-food Workers,Non-food Workers,Asymptomatic,female,41,Typhimurium,36,B,Guangxi,31
+2014-206,CDC,2014,Workers in Food industry ,Food Workers,Food Workers,Asymptomatic,female,27,Typhimurium,34,B,Guangxi,1
+2014-390,CDC,2014,Workers in Non-food industry ,Non-food Workers,Non-food Workers,Asymptomatic,female,51,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2014-50,CDC,2014,Workers in Food industry ,Food Workers,Food Workers,Asymptomatic,male,43,Typhimurium,34,B,Guangxi,1
+2014-58,CDC,2014,Workers in Food industry ,Food Workers,Food Workers,Asymptomatic,female,26,Typhimurium,36,B,Guangxi,5
+2014-94,CDC,2014,Workers in Food industry ,Food Workers,Food Workers,Asymptomatic,female,21,Typhimurium,19,B,Guangxi,1
+2015-0265,CDC_Public,2015,,Food Workers,Food Workers,Asymptomatic,Male,62,Kentucky,,,Guangxi,4
+2015-0265-1,CDC_Public,2015,,Food Workers,Food Workers,Asymptomatic,Male,62,Derby,,,Guangxi,3
+2015-0415,CDC_Public,2015,,Food Workers,Food Workers,Asymptomatic,Female,31,Kentucky,,,Guangxi,4
+2015-134,CDC,2015,service staff,Food Workers,Food Workers,Asymptomatic,female,34,Typhimurium,19,B,Guangxi,1
+2015-237,CDC,2015,Workers in Food industry ,Food Workers,Food Workers,Asymptomatic,female,51,Typhimurium,36,B,Guangxi,5
+2015-341,CDC,2015,food handler,Food Workers,Food Workers,Asymptomatic,male,36,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2015-36,CDC,2015,food sales,Food Workers,Food Workers,Asymptomatic,female,46,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2015-38,CDC,2015,catering service workers,Food Workers,Food Workers,Asymptomatic,female,23,Typhimurium,19,B,Guangxi,1
+2015-40,CDC,2015,food sales,Food Workers,Food Workers,Asymptomatic,male,25,Typhimurium,19,B,Guangxi,1
+2015-41,CDC,2015,pharmaceutical sales,Non-food Workers,Non-food Workers,Asymptomatic,male,39,Typhimurium,34,B,Guangxi,1
+2015-430,CDC,2015,catering service workers,Food Workers,Food Workers,Asymptomatic,female,21,Typhimurium,19,B,Guangxi,1
+2015-64,CDC,2015,Non-food sales,Non-food Workers,Non-food Workers,Asymptomatic,female,26,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2015-91-1,CDC,2015,catering service workers,Food Workers,Food Workers,Asymptomatic,female,43,Potsdam,2039,C1,Guangxi,20
+2016-0037,CDC_Public,2016,,Food Workers,Food Workers,Asymptomatic,Female,31,Kentucky,,,Guangxi,4
+2016-0089,CDC_Public,2016,,Non-food Workers,Non-food Workers,Asymptomatic,Female,46,Kentucky,,,Guangxi,4
+2016-0097,CDC_Public,2016,,Food Workers,Food Workers,Asymptomatic,Female,49,Kentucky,,,Guangxi,4
+2016-0312,CDC_Public,2016,,Food Workers,Food Workers,Asymptomatic,Female,49,London,,,Guangxi,30
+2016-0359,CDC_Public,2016,,Food Workers,Food Workers,Asymptomatic,Male,51,Kentucky,,,Guangxi,4
+2016-0370,CDC_Public,2016,,Food Workers,Food Workers,Asymptomatic,Male,18,Agona,,,Guangxi,6
+2016-0371,CDC_Public,2016,,Food Workers,Food Workers,Asymptomatic,Female,30,Weltevreden,,,Guangxi,11
+2016-0372,CDC_Public,2016,,Food Workers,Food Workers,Asymptomatic,Female,20,Weltevreden,,,Guangxi,11
+2016-0378,CDC_Public,2016,,Food Workers,Food Workers,Asymptomatic,Male,42,Kentucky,,,Guangxi,16
+2016-0383,CDC_Public,2016,,Food Workers,Food Workers,Asymptomatic,Male,29,Agona,,,Guangxi,6
+2016-0388,CDC_Public,2016,,Non-food Workers,Non-food Workers,Asymptomatic,Female,51,Weltevreden,,,Guangxi,11
+2016-0389,CDC_Public,2016,,Non-food Workers,Non-food Workers,Asymptomatic,Male,26,Thompson,,,Guangxi,10
+2016-0390,CDC_Public,2016,,Non-food Workers,Non-food Workers,Asymptomatic,Male,39,Thompson,,,Guangxi,10
+2016-0391,CDC_Public,2016,,Non-food Workers,Non-food Workers,Asymptomatic,Female,52,Thompson,,,Guangxi,10
+2016-0392,CDC_Public,2016,,Non-food Workers,Non-food Workers,Asymptomatic,Female,42,Thompson,,,Guangxi,10
+2016-0393,CDC_Public,2016,,Food Workers,Food Workers,Asymptomatic,Male,31,Corvallis,,,Guangxi,9
+2016-0399,CDC_Public,2016,,Food Workers,Food Workers,Asymptomatic,Female,54,Albany,,,Guangxi,29
+2016-0400,CDC_Public,2016,,Food Workers,Food Workers,Asymptomatic,Female,48,Kentucky,,,Guangxi,16
+2016-0436,CDC_Public,2016,,Food Workers,Food Workers,Asymptomatic,Female,37,Mbandaka,,,Guangxi,7
+2016-129,CDC,2016,food sales,Food Workers,Food Workers,Asymptomatic,female,25,Typhimurium,19,B,Guangxi,1
+2016-300,CDC,2016,Workers in Food industry ,Food Workers,Food Workers,Asymptomatic,female,49,Typhimurium,36,B,Guangxi,5
+2016-306,CDC,2016,catering service workers,Food Workers,Food Workers,Asymptomatic,female,40,Typhimurium,36,B,Guangxi,5
+2016-350,CDC,2016,Workers in Food industry ,Food Workers,Food Workers,Asymptomatic,male,38,Typhimurium,19,B,Guangxi,1
+2016-404,CDC_Public,2016,food sales,Food Workers,Food Workers,Asymptomatic,female,27,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2016-467,CDC,2016,pharmaceutical sales,Non-food Workers,Non-food Workers,Asymptomatic,female,45,Typhimurium,19,B,Guangxi,1
+2016-49,CDC,2016,Non-food sales,Non-food Workers,Non-food Workers,Asymptomatic,female,31,Typhimurium,19,B,Guangxi,1
+2016-81,CDC,2016,food sales,Food Workers,Food Workers,Asymptomatic,female,38,Typhimurium,99,B,Guangxi,1
+2017-0039,CDC_Public,2017,,Food Workers,Food Workers,Asymptomatic,Female,50,Amoutive,,,Guangxi,28
+2017-0139,CDC_Public,2017,,Food Workers,Food Workers,Asymptomatic,Female,42,Derby,,,Guangxi,3
+2017-0634,CDC_Public,2017,,Food Workers,Food Workers,Asymptomatic,Female,52,Meleagridis,,,Guangxi,15
+2017-0677,CDC_Public,2017,,Food Workers,Food Workers,Asymptomatic,Female,25,Meleagridis,,,Guangxi,15
+2017-345,CDC,2017,housekeeping service workers,Non-food Workers,Non-food Workers,Asymptomatic,female,53,Typhimurium,19,B,Guangxi,1
+2017-417,CDC,2017,food handler,Food Workers,Food Workers,Asymptomatic,female,46,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2017-432,CDC,2017,Non-food sales,Non-food Workers,Non-food Workers,Asymptomatic,female,32,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2017-452,CDC,2017,food sales,Food Workers,Food Workers,Asymptomatic,male,36,Typhimurium,19,B,Guangxi,1
+2017-473,CDC,2017,service staff,Food Workers,Food Workers,Asymptomatic,female,44,Typhimurium,19,B,Guangxi,1
+2017-569,CDC,2017,food sales,Food Workers,Food Workers,Asymptomatic,male,43,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2017-570,CDC,2017,catering service workers,Food Workers,Food Workers,Asymptomatic,male,58,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2017-662,CDC,2017,canteen staff,Food Workers,Food Workers,Asymptomatic,male,56,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2017-699,CDC,2017,food sales,Food Workers,Food Workers,Asymptomatic,female,44,Typhimurium,36,B,Guangxi,5
+2017-731,CDC,2017,service staff,Food Workers,Food Workers,Asymptomatic,female,25,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2018-0019,CDC_Public,2018,,Food Workers,Food Workers,Asymptomatic,Male,64,Reading,,,Guangxi,14
+2018-0021,CDC_Public,2018,,Food Workers,Food Workers,Asymptomatic,Female,43,Meleagridis,,,Guangxi,15
+2018-0037,CDC_Public,2018,,Food Workers,Food Workers,Asymptomatic,Female,29,Kentucky,,,Guangxi,16
+2018-0055,CDC_Public,2018,,Food Workers,Food Workers,Asymptomatic,Female,46,Derby,,,Guangxi,3
+2018-0088,CDC_Public,2018,,Food Workers,Food Workers,Asymptomatic,Male,46,Derby,,,Guangxi,3
+2018-0222,CDC_Public,2018,,Food Workers,Food Workers,Asymptomatic,Female,55,London,,,Guangxi,8
+2018-0501,CDC_Public,2018,,Food Workers,Food Workers,Asymptomatic,Male,41,Hvittingfoss,,,Guangxi,27
+2018-155,CDC,2018,catering service workers,Food Workers,Food Workers,Asymptomatic,female,54,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2018-167,CDC,2018,hair and beauty salon workers,Non-food Workers,Non-food Workers,Asymptomatic,female,19,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2018-179,CDC,2018,catering service workers,Food Workers,Food Workers,Asymptomatic,male,23,Typhimurium,-,B,Guangxi,1
+2018-188,CDC,2018,pharmaceutical sales,Non-food Workers,Non-food Workers,Asymptomatic,female,33,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2018-192,CDC,2018,service staff,Food Workers,Food Workers,Asymptomatic,male,36,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2018-234,CDC,2018,Workers in Food industry ,Food Workers,Food Workers,Asymptomatic,male,36,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2018-383,CDC,2018,Workers in Food industry ,Food Workers,Food Workers,Asymptomatic,female,18,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2018-39,CDC_Public,2018,catering service workers,Food Workers,Food Workers,Asymptomatic,male,56,"I 1,4,[5],12:i:-",-,B,Guangxi,1
+2018-429,CDC,2018,Workers in Non-food industry ,Non-food Workers,Non-food Workers,Asymptomatic,female,19,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2018-44,CDC_Public,2018,food sales,Food Workers,Food Workers,Asymptomatic,female,27,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2018-471,CDC,2018,Workers in Food industry ,Food Workers,Food Workers,Asymptomatic,male,28,Typhimurium,19,B,Guangxi,1
+2018-50,CDC,2018,food sales,Food Workers,Food Workers,Asymptomatic,female,40,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2018-551,CDC,2018,Workers in Non-food industry ,Non-food Workers,Non-food Workers,Asymptomatic,female,40,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2018-56,CDC,2018,Non-food sales,Non-food Workers,Non-food Workers,Asymptomatic,female,38,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2018-566,CDC,2018,Workers in Food industry ,Food Workers,Food Workers,Asymptomatic,female,19,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2018-57,CDC,2018,catering service workers,Food Workers,Food Workers,Asymptomatic,female,49,Typhimurium,34,B,Guangxi,1
+2018-59,CDC,2018,food sales,Food Workers,Food Workers,Asymptomatic,male,22,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2018-623,CDC_Public,2018,Workers in Food industry ,Food Workers,Food Workers,Asymptomatic,male,47,Typhimurium,-,B,Guangxi,1
+2018-63,CDC,2018,food sales,Food Workers,Food Workers,Asymptomatic,male,23,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2018-643,CDC,2018,canteen staff,Food Workers,Food Workers,Asymptomatic,female,17,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2018-648,CDC,2018,Non-food sales,Non-food Workers,Non-food Workers,Asymptomatic,female,30,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2018-649,CDC,2018,Non-food sales,Non-food Workers,Non-food Workers,Asymptomatic,female,33,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2018-66,CDC,2018,food sales,Food Workers,Food Workers,Asymptomatic,female,29,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2018-73,CDC,2018,catering service workers,Food Workers,Food Workers,Asymptomatic,female,37,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2018-765,CDC,2018,catering service workers,Food Workers,Food Workers,Asymptomatic,male,47,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2018-91,CDC,2018,service staff,Food Workers,Food Workers,Asymptomatic,female,23,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2018-916,CDC,2018,food sales,Food Workers,Food Workers,Asymptomatic,female,40,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2018-92,CDC,2018,food sales,Food Workers,Food Workers,Asymptomatic,female,45,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2018-93,CDC,2018,housekeeping service workers,Non-food Workers,Non-food Workers,Asymptomatic,female,54,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2019-0048,CDC_Public,2019,,Food Workers,Food Workers,Asymptomatic,Female,41,Potsdam,,,Guangxi,20
+2019-0082,CDC_Public,2019,,Food Workers,Food Workers,Asymptomatic,Male,29,Enteritidis,,,Guangxi,2
+2019-0255,CDC_Public,2019,,Food Workers,Food Workers,Asymptomatic,Male,47,Kentucky,,,Guangxi,4
+2019-0256,CDC_Public,2019,,Food Workers,Food Workers,Asymptomatic,Male,18,Kentucky,,,Guangxi,4
+2019-0257,CDC_Public,2019,,Food Workers,Food Workers,Asymptomatic,Male,39,Corvallis,,,Guangxi,9
+2019-0486,CDC_Public,2019,,Food Workers,Food Workers,Asymptomatic,Male,22,Corvallis,,,Guangxi,9
+2019-0582,CDC_Public,2019,,Food Workers,Food Workers,Asymptomatic,Female,48,Corvallis,,,Guangxi,9
+2019-0998,CDC_Public,2019,,Food Workers,Food Workers,Asymptomatic,Male,52,Stanley,,,Guangxi,26
+2019-1123,CDC_Public,2019,,Non-food Workers,Non-food Workers,Asymptomatic,Female,38,Derby,,,Guangxi,3
+2019-1126,CDC,2019,cook,Food Workers,Food Workers,Asymptomatic,male,38,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2019-563,CDC,2019,service staff,Food Workers,Food Workers,Asymptomatic,female,39,Typhimurium,19,B,Guangxi,1
+2019-699,CDC,2019,catering service workers,Food Workers,Food Workers,Asymptomatic,male,20,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2019-815,CDC,2019,catering service workers,Food Workers,Food Workers,Asymptomatic,female,19,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2019-816,CDC,2019,food handler,Food Workers,Food Workers,Asymptomatic,male,42,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2019-851,CDC,2019,food handler,Food Workers,Food Workers,Asymptomatic,female,30,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2019-855,CDC,2019,housekeeping service workers,Non-food Workers,Non-food Workers,Asymptomatic,female,45,Typhimurium,19,B,Guangxi,1
+2019-870,CDC,2019,food sales,Food Workers,Food Workers,Asymptomatic,female,28,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2019-892,CDC,2019,food handler,Food Workers,Food Workers,Asymptomatic,female,39,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-0168,CDC_Public,2020,,Food Workers,Food Workers,Asymptomatic,Female,54,Derby,,,Guangxi,3
+2020-0169,CDC_Public,2020,,Food Workers,Food Workers,Asymptomatic,Male,22,"I B:f,g:1,7",,,Guangxi,25
+2020-0214,CDC_Public,2020,,Non-food Workers,Non-food Workers,Asymptomatic,Female,27,Anatum,,,Guangxi,24
+2020-0305,CDC_Public,2020,,Food Workers,Food Workers,Asymptomatic,Male,32,Weltevreden,,,Guangxi,11
+2020-106,CDC,2020,child-care provider,Non-food Workers,Non-food Workers,Asymptomatic,female,38,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-122,CDC,2020,service staff,Food Workers,Food Workers,Asymptomatic,female,42,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-157,CDC,2020,canteen staff,Food Workers,Food Workers,Asymptomatic,male,56,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-170,CDC,2020,catering service workers,Food Workers,Food Workers,Asymptomatic,male,19,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-174,CDC,2020,canteen staff,Food Workers,Food Workers,Asymptomatic,male,65,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-195,CDC,2020,food handler,Food Workers,Food Workers,Asymptomatic,male,44,Typhimurium,19,B,Guangxi,1
+2020-274,CDC,2020,food sales,Food Workers,Food Workers,Asymptomatic,female,47,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-296,CDC,2020,food sales,Food Workers,Food Workers,Asymptomatic,male,32,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-299,CDC,2020,catering service workers,Food Workers,Food Workers,Asymptomatic,male,24,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-31,CDC,2020,catering service workers,Food Workers,Food Workers,Asymptomatic,female,47,Typhimurium,34,B,Guangxi,1
+2020-363,CDC,2020,food handler,Food Workers,Food Workers,Asymptomatic,male,34,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-367,CDC,2020,catering service workers,Food Workers,Food Workers,Asymptomatic,female,28,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-425,CDC,2020,catering service workers,Food Workers,Food Workers,Asymptomatic,female,47,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-427,CDC,2020,Non-food sales,Non-food Workers,Non-food Workers,Asymptomatic,female,29,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-443,CDC,2020,catering service workers,Food Workers,Food Workers,Asymptomatic,male,51,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-459,CDC,2020,catering service workers,Food Workers,Food Workers,Asymptomatic,male,29,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-463,CDC,2020,catering service workers,Food Workers,Food Workers,Asymptomatic,male,26,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-498,CDC,2020,service staff,Food Workers,Food Workers,Asymptomatic,male,16,"I 1,4,[5],12:i:-",19,B,Guangxi,1
+2020-503,CDC,2020,canteen staff,Food Workers,Food Workers,Asymptomatic,male,40,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-553,CDC,2020,service staff,Food Workers,Food Workers,Asymptomatic,female,34,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-576,CDC,2020,service staff,Food Workers,Food Workers,Asymptomatic,male,55,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-588,CDC,2020,service staff,Food Workers,Food Workers,Asymptomatic,female,62,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-593,CDC,2020,service staff,Food Workers,Food Workers,Asymptomatic,female,21,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-596,CDC,2020,service staff,Food Workers,Food Workers,Asymptomatic,female,48,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-616,CDC,2020,hair and beauty salon workers,Non-food Workers,Non-food Workers,Asymptomatic,female,23,Typhimurium,19,B,Guangxi,1
+2020-640,CDC,2020,canteen staff,Food Workers,Food Workers,Asymptomatic,female,55,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-665,CDC,2020,food handler,Food Workers,Food Workers,Asymptomatic,female,38,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-673,CDC,2020,Non-food sales,Non-food Workers,Non-food Workers,Asymptomatic,female,30,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-684,CDC,2020,catering service workers,Food Workers,Food Workers,Asymptomatic,male,18,Typhimurium,19,B,Guangxi,1
+2020-704,CDC,2020,food sales,Food Workers,Food Workers,Asymptomatic,female,26,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-714,CDC,2020,catering service workers,Food Workers,Food Workers,Asymptomatic,female,20,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-731,CDC,2020,cook,Food Workers,Food Workers,Asymptomatic,female,60,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-734,CDC,2020,food handler,Food Workers,Food Workers,Asymptomatic,male,23,Typhimurium,19,B,Guangxi,1
+2020-748,CDC,2020,service staff,Food Workers,Food Workers,Asymptomatic,female,46,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-789,CDC,2020,catering service workers,Food Workers,Food Workers,Asymptomatic,female,32,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-794,CDC,2020,canteen staff,Food Workers,Food Workers,Asymptomatic,male,42,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-814,CDC,2020,hair and beauty salon workers,Non-food Workers,Non-food Workers,Asymptomatic,female,35,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-829,CDC,2020,catering service workers,Food Workers,Food Workers,Asymptomatic,male,40,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-866,CDC,2020,service staff,Food Workers,Food Workers,Asymptomatic,female,49,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-88,CDC,2020,food sales,Food Workers,Food Workers,Asymptomatic,male,49,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-890,CDC,2020,catering service workers,Food Workers,Food Workers,Asymptomatic,female,38,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-894,CDC,2020,catering service workers,Food Workers,Food Workers,Asymptomatic,male,18,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-897,CDC,2020,food handler,Food Workers,Food Workers,Asymptomatic,female,33,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-909,CDC,2020,service staff,Food Workers,Food Workers,Asymptomatic,female,57,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-938,CDC,2020,catering service workers,Food Workers,Food Workers,Asymptomatic,female,57,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-944,CDC,2020,catering service workers,Food Workers,Food Workers,Asymptomatic,male,28,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-950,CDC,2020,food sales,Food Workers,Food Workers,Asymptomatic,male,51,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-951,CDC,2020,catering service workers,Food Workers,Food Workers,Asymptomatic,female,45,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-953,CDC,2020,catering service workers,Food Workers,Food Workers,Asymptomatic,male,36,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-961,CDC,2020,food handler,Food Workers,Food Workers,Asymptomatic,male,38,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-984,CDC,2020,breeder,Non-food Workers,Non-food Workers,Asymptomatic,male,44,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2020-985,CDC,2020,service staff,Food Workers,Food Workers,Asymptomatic,female,27,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2021-164,CDC,2021,catering service workers,Food Workers,Food Workers,Asymptomatic,male,74,Typhimurium,-,B,Guangxi,1
+2022-245,CDC,2022,service staff,Food Workers,Food Workers,Asymptomatic,female,43,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2022-541,CDC,2022,canteen staff,Food Workers,Food Workers,Asymptomatic,female,43,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2022-543,CDC,2022,food sales,Food Workers,Food Workers,Asymptomatic,female,35,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2022-544,CDC,2022,hair and beauty salon workers,Non-food Workers,Non-food Workers,Asymptomatic,male,31,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2022-549,CDC,2022,food handler,Food Workers,Food Workers,Asymptomatic,female,42,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2022-933,CDC,2022,hair and beauty salon workers,Non-food Workers,Non-food Workers,Asymptomatic,male,66,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+2022-971,CDC,2022,catering service workers,Food Workers,Food Workers,Asymptomatic,male,31,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+GZ2016SF072,Public,2016,Pork meat,Pork meat,Pork meat,-,pork food,-,"I 1,4,[5],12:i:-",,,Guangdong,1
+GZ2016SF129,Public,2016,Pork meat,Pork meat,Pork meat,-,pork food,-,"I 1,4,[5],12:i:-",,,Guangdong,1
+GZ2016SF165,Public,2016,Pork meat,Pork meat,Pork meat,-,pork food,-,Typhimurium,,,Guangdong,1
+GZ2016SF193,Public,2016,Pork meat,Pork meat,Pork meat,-,pork food,-,Typhimurium,,,Guangdong,1
+GZ2016SF246,Public,2016,Pork meat,Pork meat,Pork meat,-,pork food,-,"I 1,4,[5],12:i:-",,,Guangdong,1
+GZ2016SF248,Public,2016,Pork meat,Pork meat,Pork meat,-,pork food,-,Typhimurium,,,Guangdong,1
+GZ2016SF273,Public,2016,Pork meat,Pork meat,Pork meat,-,pork food,-,"I 1,4,[5],12:i:-",,,Guangdong,1
+HA2S84,Farmwatch,2020,Chicken faeces,Chicken (farms),Chicken (farms),-,chicken,-,Enteritidis,11,D1,Henan,2
+HA2S92,Farmwatch,2020,Chicken feather,Chicken (farms),Chicken (farms),-,chicken,-,Enteritidis,11,D1,Henan,2
+HA2S97,Farmwatch,2020,Sewage,Environment (farms),Environment (farms),-,environment,-,Enteritidis,11,D1,Henan,2
+HA2S98,Farmwatch,2020,Abattoir environment,Environment (farms),Environment (farms),-,environment,-,Enteritidis,11,D1,Henan,2
+HA3S25,Farmwatch,2021,Sewage,Environment (farms),Environment (farms),-,environment,-,Enteritidis,11,D1,Henan,2
+PD3-51,Farmwatch,2020,Chicken faeces,Chicken (farms),Chicken (farms),-,chicken,-,Alachua,1298,O,Shandong,19
+PD3-52,Farmwatch,2020,Chicken faeces,Chicken (farms),Chicken (farms),-,chicken,-,Alachua,1298,O,Shandong,19
+Salmonella_CH02,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Schwarzengrund,96,B,Shandong,23
+Salmonella_CH10,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Agona,13,B,Shandong,6
+Salmonella_CH11,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Indiana,17,B,Shandong,22
+Salmonella_CH16,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Newport,45,C2-C3,Shandong,18
+Salmonella_CH18,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Give,516,E1,Shandong,13
+Salmonella_CH25,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Agona,13,B,Shandong,6
+Salmonella_CH26,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Agona,13,B,Shandong,6
+Salmonella_CH27,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Typhimurium,3557,B,Shandong,1
+Salmonella_CH29,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Typhimurium,34,B,Shandong,1
+Salmonella_CH32,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Enteritidis,11,D1,Shandong,2
+Salmonella_CH34,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Mbandaka,413,C1,Shandong,7
+Salmonella_CH37,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Agona,13,B,Shandong,6
+Salmonella_CH39,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Mbandaka,413,C1,Shandong,7
+Salmonella_CH40,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Typhimurium,19,B,Shandong,1
+Salmonella_CH43,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Typhimurium,36,B,Shandong,5
+Salmonella_CH46,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Enteritidis,11,D1,Shandong,2
+Salmonella_CH47,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Typhimurium,19,B,Shandong,1
+Salmonella_CH48,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Enteritidis,11,D1,Shandong,2
+Salmonella_CH50,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Enteritidis,11,D1,Shandong,2
+Salmonella_CH51,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Derby,40,B,Shandong,3
+Salmonella_CH52,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Newport,45,C2-C3,Shandong,18
+Salmonella_CH53,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Infantis,32,C1,Shandong,21
+Salmonella_CH54,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Uganda,684,E1,Shandong,12
+Salmonella_CH55,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Derby,40,B,Shandong,3
+Salmonella_CH56,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Derby,40,B,Shandong,3
+Salmonella_CH57,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Derby,40,B,Shandong,3
+Salmonella_CH58,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Derby,40,B,Shandong,3
+Salmonella_CH59,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Reading,1628,B,Shandong,14
+Salmonella_CH60,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Reading,1628,B,Shandong,14
+Salmonella_CH62,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,"I 1,4,[5],12:i:-",34,B,Shandong,1
+Salmonella_CH66,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Derby,40,B,Shandong,3
+Salmonella_CH67,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,London,155,E1,Shandong,8
+Salmonella_CH69,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Agona,13,B,Shandong,6
+Salmonella_CH71,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Typhimurium,19,B,Shandong,1
+Salmonella_CH72,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Typhimurium,19,B,Shandong,1
+Salmonella_CH73,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Typhimurium,19,B,Shandong,1
+Salmonella_CH74,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Typhimurium,19,B,Shandong,1
+Salmonella_CH76,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Enteritidis,11,D1,Shandong,2
+Salmonella_CH78,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Enteritidis,11,D1,Shandong,2
+Salmonella_CH79,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Uganda,684,E1,Shandong,12
+Salmonella_CH80,CFSA_Public,2020,chicken meat,Retail chicken meat,Retail chicken meat,-,chicken food,-,Uganda,684,E1,Shandong,12
+Salmonella_HUM29,CFSA_Public,2020,Diarrhea,Symptomatic food-associated in-patients,Symptomatic humans,Symptomatic,female,1,"I 1,4,[5],12:i:-",34,B,Shandong,1
+Salmonella_HUM32,CFSA_Public,2020,Diarrhea,Symptomatic food-associated in-patients,Symptomatic humans,Symptomatic,male,38,Mbandaka,413,C1,Shandong,7
+Salmonella_HUM34,CFSA_Public,2020,Diarrhea,Symptomatic food-associated in-patients,Symptomatic humans,Symptomatic,female,54,London,155,E1,Shandong,8
+Salmonella_HUM35,CFSA_Public,2020,Diarrhea,Symptomatic food-associated in-patients,Symptomatic humans,Symptomatic,male,30,Mbandaka,413,C1,Shandong,7
+Salmonella_HUM36,CFSA_Public,2020,Diarrhea,Symptomatic food-associated in-patients,Symptomatic humans,Symptomatic,male,30,Mbandaka,413,C1,Shandong,7
+Salmonella_HUM37,CFSA_Public,2020,Diarrhea,Symptomatic food-associated in-patients,Symptomatic humans,Symptomatic,male,1,London,155,E1,Shandong,8
+Salmonella_HUM38,CFSA_Public,2020,Diarrhea,Symptomatic food-associated in-patients,Symptomatic humans,Symptomatic,male,64,Give,516,E1,Shandong,13
+Salmonella_HUM47,CFSA_Public,2020,Diarrhea,Symptomatic food-associated in-patients,Symptomatic humans,Symptomatic,female,66,Rissen,469,C1,Shandong,17
+Salmonella_HUM50,CFSA_Public,2020,Diarrhea,Symptomatic food-associated in-patients,Symptomatic humans,Symptomatic,male,1,Typhimurium,19,B,Shandong,1
+Salmonella_HUM52,CFSA_Public,2020,Diarrhea,Symptomatic food-associated in-patients,Symptomatic humans,Symptomatic,female,1,Agona,13,B,Shandong,6
+Salmonella_HUM53,CFSA_Public,2020,Diarrhea,Symptomatic food-associated in-patients,Symptomatic humans,Symptomatic,male,1,Agona,13,B,Shandong,6
+Salmonella_HUM56,CFSA_Public,2020,Diarrhea,Symptomatic food-associated in-patients,Symptomatic humans,Symptomatic,male,1,Enteritidis,11,D1,Shandong,2
+Salmonella_HUM57,CFSA_Public,2020,Diarrhea,Symptomatic food-associated in-patients,Symptomatic humans,Symptomatic,male,1,Rissen,469,C1,Shandong,17
+Salmonella_HUM61,CFSA_Public,2020,Diarrhea,Symptomatic food-associated in-patients,Symptomatic humans,Symptomatic,female,39,Typhimurium,19,B,Shandong,1
+Salmonella_HUM62,CFSA_Public,2020,Diarrhea,Symptomatic food-associated in-patients,Symptomatic humans,Symptomatic,male,26,Typhimurium,19,B,Shandong,1
+Salmonella_HUM63,CFSA_Public,2020,Diarrhea,Symptomatic food-associated in-patients,Symptomatic humans,Symptomatic,male,3,Enteritidis,11,D1,Shandong,2
+Salmonella_HUM68,CFSA_Public,2020,Diarrhea,Symptomatic food-associated in-patients,Symptomatic humans,Symptomatic,female,2,Enteritidis,11,D1,Shandong,2
+Salmonella_HUM79,CFSA_Public,2020,Diarrhea,Symptomatic food-associated in-patients,Symptomatic humans,Symptomatic,male,1,Give,516,E1,Shandong,13
+Salmonella_HUM81,CFSA_Public,2020,Diarrhea,Symptomatic food-associated in-patients,Symptomatic humans,Symptomatic,male,54,Enteritidis,11,D1,Shandong,2
+SD74,Farmwatch,2019,Chicken cecal,Chicken (farms),Chicken (farms),-,chicken,-,Enteritidis,11,D1,Shandong,2
+SD75,Farmwatch,2019,Chicken cecal,Chicken (farms),Chicken (farms),-,chicken,-,Enteritidis,11,D1,Shandong,2
+SH11SF283,Public,2011,Pork meat,Pork meat,Pork meat,-,pork food,-,Typhimurium,,,Shanghai,1
+SH13SF130,Public,2013,Pork meat,Pork meat,Pork meat,-,pork food,-,Typhimurium,,,Shanghai,1
+SH13SF932,Public,2013,Pork meat,Pork meat,Pork meat,-,pork food,-,Typhimurium,,,Shanghai,1
+SH14SF239,Public,2014,Pork meat,Pork meat,Pork meat,-,pork food,-,Typhimurium,,,Shanghai,1
+SH15SF007,Public,2015,Pork meat,Pork meat,Pork meat,-,pork food,-,Typhimurium,,,Shanghai,1
+SH15SF025,Public,2015,Pork meat,Pork meat,Pork meat,-,pork food,-,Typhimurium,,,Shanghai,1
+SH15SF297,Public,2015,Pork meat,Pork meat,Pork meat,-,pork food,-,Typhimurium,,,Guangdong,1
+SH15SF298,Public,2015,Pork meat,Pork meat,Pork meat,-,pork food,-,Typhimurium,,,Guangdong,1
+SH15SF434,Public,2015,Pork meat,Pork meat,Pork meat,-,pork food,-,"I 1,4,[5],12:i:-",,,Guangdong,1
+SH15SF436,Public,2015,Pork meat,Pork meat,Pork meat,-,pork food,-,"I 1,4,[5],12:i:-",,,Guangdong,1
+SH15SF476,Public,2015,Pork meat,Pork meat,Pork meat,-,pork food,-,"I 1,4,[5],12:i:-",,,Shanghai,1
+SH15SF602,Public,2015,Pork meat,Pork meat,Pork meat,-,pork food,-,Typhimurium,,,Shanghai,1
+SH15SF603,Public,2015,Pork meat,Pork meat,Pork meat,-,pork food,-,Typhimurium,,,Shanghai,1
+SH16SF1001,Public,2013,Pork meat,Pork meat,Pork meat,-,pork food,-,Typhimurium,,,Sichuan,5
+SH16SF1009,Public,2013,Pork meat,Pork meat,Pork meat,-,pork food,-,Typhimurium,,,Sichuan,1
+SH16SF1026,Public,2013,Pork meat,Pork meat,Pork meat,-,pork food,-,Typhimurium,,,Sichuan,1
+SH16SF1107,Public,2014,Pork meat,Pork meat,Pork meat,-,pork food,-,Typhimurium,,,Sichuan,1
+SH16SF1467,Public,2016,Pork meat,Pork meat,Pork meat,-,pork food,-,Typhimurium,,,Shanghai,1
+SH16SF159,Public,2016,Pork meat,Pork meat,Pork meat,-,pork food,-,"I 1,4,[5],12:i:-",,,Guangdong,1
+SH17SF1578,Public,2017,Pork meat,Pork meat,Pork meat,-,pork food,-,Typhimurium,,,Shanghai,1
+SH17SF1637,Public,2017,Pork meat,Pork meat,Pork meat,-,pork food,-,Typhimurium,,,Shanghai,1
+SH17SF322,Public,2013,Pork meat,Pork meat,Pork meat,-,pork food,-,Typhimurium,,,Guangdong,1
+SH18SF1766,Public,2015,Pork meat,Pork meat,Pork meat,-,pork food,-,Typhimurium,,,Heilongjiang,1
+SH18SF899,Public,2018,Pork meat,Pork meat,Pork meat,-,pork food,-,Typhimurium,,,Shanghai,1
+SRR28977516,Public,2008,Diarrhea,Symptomatic food-associated humans,Symptomatic humans,Symptomatic,Unknown,Unknown,Typhimurium,19,B,Guangxi,1
+SRR28978011,Public,2010,Diarrhea,Symptomatic food-associated humans,Symptomatic humans,Symptomatic,Unknown,Unknown,Typhimurium,2066,B,Guangxi,1
+SRR28978016,Public,2011,Diarrhea,Symptomatic food-associated humans,Symptomatic humans,Symptomatic,Unknown,Unknown,Typhimurium,19,-,Guangxi,1
+SRR28978018,Public,2011,Diarrhea,Symptomatic food-associated humans,Symptomatic humans,Symptomatic,Unknown,Unknown,Typhimurium,19,B,Guangxi,1
+SRR28978316,Public,2015,Diarrhea,Symptomatic food-associated humans,Symptomatic humans,Symptomatic,Unknown,Unknown,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+SRR28997694,Public,2012,Diarrhea,Symptomatic food-associated humans,Symptomatic humans,Symptomatic,Unknown,Unknown,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+SRR28997721,Public,2015,Diarrhea,Symptomatic food-associated humans,Symptomatic humans,Symptomatic,Unknown,Unknown,Typhimurium,19,B,Guangxi,1
+SRR28997724,Public,2014,Diarrhea,Symptomatic food-associated humans,Symptomatic humans,Symptomatic,Unknown,Unknown,Typhimurium,19,B,Guangxi,1
+SRR28997729,Public,2007,Food poisoning,Symptomatic food-associated humans,Symptomatic humans,Symptomatic,Unknown,Unknown,Typhimurium,19,B,Guangxi,1
+SRR28997919,Public,2013,Diarrhea,Symptomatic food-associated humans,Symptomatic humans,Symptomatic,Unknown,Unknown,Typhimurium,19,B,Guangxi,1
+SRR28997923,Public,2013,Diarrhea,Symptomatic food-associated humans,Symptomatic humans,Symptomatic,Unknown,Unknown,Typhimurium,36,B,Guangxi,5
+SRR28997931,Public,2011,Diarrhea,Symptomatic food-associated humans,Symptomatic humans,Symptomatic,Unknown,Unknown,Typhimurium,34,B,Guangxi,1
+SRR28997937,Public,2010,Diarrhea,Symptomatic food-associated humans,Symptomatic humans,Symptomatic,Unknown,Unknown,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+SRR28997941,Public,2010,Diarrhea,Symptomatic food-associated humans,Symptomatic humans,Symptomatic,Unknown,Unknown,"I 1,4,[5],12:i:-",34,B,Guangxi,1
+SRR28997943,Public,2009,Diarrhea,Symptomatic food-associated humans,Symptomatic humans,Symptomatic,Unknown,Unknown,Typhimurium,34,B,Guangxi,1
+SRR28997949,Public,2008,Diarrhea,Symptomatic food-associated humans,Symptomatic humans,Symptomatic,Unknown,Unknown,Typhimurium,34,B,Guangxi,1

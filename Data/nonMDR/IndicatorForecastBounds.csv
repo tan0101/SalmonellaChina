@@ -1,0 +1,97 @@
+﻿,Min,Max,Code,Group
+Access to clean fuels and technologies for cooking (% of population),0,1,0,Socio-economic
+"Agriculture, forestry, and fishing, value added (% of GDP)",0,1,1,Environmental
+Current health expenditure per capita (current US$),0,1,2,Socio-economic
+"Current health expenditure per capita, PPP (current international $)",0,1,3,Socio-economic
+"GDP per capita, PPP (current international $)",0,1,4,Socio-economic
+Gini index,0,1,5,Socio-economic
+Livestock production index (2014-2016 = 100),0,1,6,Environmental
+People using at least basic drinking water services (% of population),0,1,7,Socio-economic
+People using safely managed sanitation services (% of population),0,1,8,Socio-economic
+People with basic handwashing facilities including soap and water (% of population),0,1,9,Socio-economic
+Population density (people per sq. km of land area),0,1,10,Socio-economic
+Fluoroquinolones,0,1,11,Antibiotic Consumption
+Chloramphenicols,0,1,12,Antibiotic Consumption
+Broad spectrum penicillins,0,1,13,Antibiotic Consumption
+Aminoglycosides,0,1,14,Antibiotic Consumption
+Carbapenems,0,1,15,Antibiotic Consumption
+Cephalosporins,0,1,16,Antibiotic Consumption
+Glycopeptides,0,1,17,Antibiotic Consumption
+Lipopeptides,0,1,18,Antibiotic Consumption
+Macrolides,0,1,19,Antibiotic Consumption
+Glycylcyclines,0,1,20,Antibiotic Consumption
+Monobactams,0,1,21,Antibiotic Consumption
+Narrow spectrum penicillins,0,1,22,Antibiotic Consumption
+Others,0,1,23,Antibiotic Consumption
+Oxazolidinones,0,1,24,Antibiotic Consumption
+Phosphonics,0,1,25,Antibiotic Consumption
+Polymyxins,0,1,26,Antibiotic Consumption
+Tetracyclines,0,1,27,Antibiotic Consumption
+Trimethoprim,0,1,28,Antibiotic Consumption
+All Antibiotics,0,1,29,Antibiotic Consumption
+Carbapenems-checkpoint,0,1,30,Antibiotic Consumption
+Glycopeptides-checkpoint,0,1,31,Antibiotic Consumption
+Narrow spectrum penicillins-checkpoint,0,1,32,Antibiotic Consumption
+Fluoroquinolones-checkpoint,0,1,33,Antibiotic Consumption
+Chloramphenicols-checkpoint,0,1,34,Antibiotic Consumption
+Agricultural land (% of land area),0,1,35,Environmental
+Arable land (% of land area),0,1,36,Environmental
+Control of Corruption: Estimate,0,1,37,Governance
+Government Effectiveness: Estimate,0,1,38,Governance
+"Hospital beds (per 1,000 people)",0,1,39,Socio-economic
+"Immunization, DPT (% of children ages 12-23 months)",0,1,40,Health-related
+Income share held by fourth 20%,0,1,41,Socio-economic
+Income share held by highest 10%,0,1,42,Socio-economic
+Income share held by highest 20%,0,1,43,Socio-economic
+Income share held by lowest 10%,0,1,44,Socio-economic
+Income share held by lowest 20%,0,1,45,Socio-economic
+Income share held by second 20%,0,1,46,Socio-economic
+Income share held by third 20%,0,1,47,Socio-economic
+"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",0,1,48,Socio-economic
+"Life expectancy at birth, total (years)",0,1,49,Socio-economic
+Political Stability and Absence of Violence/Terrorism: Estimate,0,1,50,Governance
+Population ages 65 and above (% of total population),0,1,51,Socio-economic
+"Population, total",0,1,52,Socio-economic
+Poverty gap at $2.15 a day (2017 PPP) (%),0,1,53,Socio-economic
+Poverty gap at $3.65 a day (2017 PPP) (%),0,1,54,Socio-economic
+Poverty gap at $6.85 a day (2017 PPP) (%),0,1,55,Socio-economic
+Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),0,1,56,Socio-economic
+Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),0,1,57,Socio-economic
+Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),0,1,58,Socio-economic
+Poverty headcount ratio at national poverty lines (% of population),0,1,59,Socio-economic
+Proportion of people living below 50 percent of median income (%),0,1,60,Socio-economic
+Refugee population by country or territory of asylum,0,1,61,Socio-economic
+Regulatory Quality: Estimate,0,1,62,Governance
+Rule of Law: Estimate,0,1,63,Governance
+Urban population (% of total population),0,1,64,Socio-economic
+Voice and Accountability: Estimate,0,1,65,Governance
+Incidence of tuberculosis (per 100 000 population per year),0,1,66,Health-related
+Raised fasting blood glucose (>= 7.0 mmol/L) (crude estimate),0,1,67,Health-related
+Prevalence of obesity among adults,0,1,68,Health-related
+"Alcohol, total per capita (15+) consumption (in litres of pure alcohol) (SDG Indicator 3.5.2), three-year average",0,1,69,Health-related
+Raised blood pressure (SBP>=140 OR DBP>=90) (crude estimate),0,1,70,Health-related
+All antibacterials,0,1,71,Antibiotic Consumption
+J01A: tetracyclines,0,1,72,Antibiotic Consumption
+J01B: amphenicols,0,1,73,Antibiotic Consumption
+J01C: B-lactam antibacterials,0,1,74,Antibiotic Consumption
+J01D: other B-lactam antibacterials,0,1,75,Antibiotic Consumption
+J01E: sulfonamides and trimethoprim,0,1,76,Antibiotic Consumption
+"J01F: macrolides, lincosamides and streptogramins",0,1,77,Antibiotic Consumption
+J01G: aminoglycoside antibacterials,0,1,78,Antibiotic Consumption
+J01M: quinolone antibacterials,0,1,79,Antibiotic Consumption
+J01X: other antibacterials,0,1,80,Antibiotic Consumption
+Diabetes Prevalence (proportion),0,1,81,Health-related
+Age-standardized SEV for Unsafe sanitation,0,1,82,Socio-economic
+Air pollution,0,1,83,Environmental
+Total Fertility Rate,0,1,84,Health-related
+Number of Licensed Doctors(per capita),0,1,85,Socio-economic
+Average Temperature,0,1,86,Environmental
+Average Precipitation,0,1,87,Environmental
+Number of Inpatients in Medical Institutions(10000 persons),0,1,88,Socio-economic
+Crude Mortality Rate of Infectious Disease(not including Respiratory Tuberculosis) in Rural Areas(1/100000),0,1,89,Health-related
+Total Health Expenditure(100 million yuan),0,1,90,Socio-economic
+Deaths_Allages_allpathogens_resistancetooneormore,0,1,91,Mortality
+Deaths_Allages_allpathogens_MDRSalmonella,0,1,92,Mortality
+Deaths_Allages_nontypoidalsalmonella_resistancetooneormore,0,1,93,Mortality
+DALY_Allages_NontyphoidalSal_fluoroquinolones,0,1,94,Mortality
+DALY_Allages_allpathogens_resistancetooneormore,0,1,95,Mortality
