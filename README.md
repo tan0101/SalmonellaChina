@@ -47,8 +47,8 @@ xlsxwriter v3.2.9
 
 ## Install from Github
 ```
-git clone https://github.com/tan0101/AMRGlobal
-cd AMRGlobal
+git clone https://github.com/tan0101/SalmonellaChina
+cd SalmonellaChina
 python setup.py install
 ```
 
