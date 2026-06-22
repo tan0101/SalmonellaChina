@@ -16,8 +16,7 @@ Inputs: The script requires the following input files:
 
 5. Plasmid Data - plasmid_samples.txt Tab-separated file Required columns: Attribute (ARG names) Value (Plasmid ID)
 
-6. [likelihood_input.csv](https://github.com/user-attachments/files/29197730/likelihood_input.csv)
-Likelihood Data - likelihood_input.csv Provides likelihood scores for traits Required columns: AMR Genomic Trait Number of isolates across source types columns Number of serovars column
+6. Likelihood Data - likelihood_input.csv Provides likelihood scores for traits Required columns: AMR Genomic Trait Number of isolates across source types columns Number of serovars column
 
 Output: Final Output File - Final_RiskScores.csv
 
