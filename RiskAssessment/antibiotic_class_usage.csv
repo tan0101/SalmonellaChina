@@ -1,0 +1,48 @@
+﻿DrugClass,ClassRiskScore
+aminoglycoside antibiotic,3
+carbapenem,2
+cephalosporin,3
+cephamycin,3
+diaminopyrimidine antibiotic,1
+fluoroquinolone antibiotic,3
+glycopeptide antibiotic,2
+Glycylcycline,2
+lincosamide antibiotic,2
+macrolide antibiotic,3
+monobactam,3
+nitrofuran antibiotic,2
+penem,2
+peptide antibiotic,3
+phenicol antibiotic,1
+phosphonic acid antibiotic,2
+rifamycin antibiotic,1
+streptogramin A antibiotic,1
+streptogramin antibiotic,1
+streptogramin B antibiotic,1
+sulfonamide antibiotic,3
+sulfone antibiotic,2
+tetracycline antibiotic,3
+disinfecting agents and antiseptics,1
+aminocoumarin antibiotic,1
+mupirocin-like antibiotic,1
+bicyclomycin-like antibiotic,1
+elfamycin antibiotic,1
+nitroimidazole antibiotic,1
+pleuromutilin antibiotic,1
+isoniazid-like antibiotic,1
+antibacterial free fatty acids,1
+fusidane antibiotic,1
+diarylquinoline antibiotic,1
+polyamine antibiotic,1
+cycloserine-like antibiotic,1
+pyrazine antibiotic,1
+thioamide antibiotic,1
+salicylic acid antibiotic,1
+oxazolidinone antibiotic,1
+nucleoside antibiotic,1
+tetracenomycin antibiotic,1
+nybomycin-like antibiotic,1
+oxacephem,1
+thiosemicarbazone antibiotic,1
+orthosomycin antibiotic,1
+pactamycin-like antibiotic,1
